@@ -39,7 +39,6 @@ Invoke user supplied JS callback
 
 #include <v8.h>
 #include <node.h>
-#include <node_events.h>
 #include <ldap.h>
 #include <unistd.h>
 #include <stdlib.h>
